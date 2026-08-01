@@ -43,5 +43,16 @@
     "duration": "04:00",
     "cover": "covers/phir-se.png",
     "url": "songs/jaiye-sajana.mp3"
+  },
+  {
+    "id ": "6",
+    "title": "kaho na kaho",
+    "artist": "A.R. Rahman",
+    "album": "kaho na kaho",   
+    "duration": "04:00",
+    "cover": "covers/kaho-na-kaho.png",
+    "url": "songs/kaho-na-kaho.mp3"
+
+
   }
 ]
