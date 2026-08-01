@@ -25,7 +25,7 @@
     "duration": "04:27",
     "cover": "covers/deewaana-deewaana.png",
     "url": "songs/deewaana-deewaana.mp3"
-  }
+  },
   {
     "id": "4",
     "title": "Calm Down",
@@ -34,5 +34,14 @@
     "duration": "03:30",
     "cover": "covers/Calm-Down.png",
     "url": "songs/Calm-Down.mp3"
+  },
+  {
+    "id": "5",
+    "title": "jaiye sajna",
+    "artist": "Jasmin Sandlas",
+    "album": "jaiye sajna",
+    "duration": "04:00",
+    "cover": "covers/phir-se.png",
+    "url": "songs/jaiye-sajna.mp3"
   }
 ]
