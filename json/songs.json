@@ -64,5 +64,14 @@
     "duration": "03:20",
     "cover": "covers/Lonely.png",
     "url": "songs/Lonely.mp3"
+  },
+  {
+    "id": "8",
+    "title": "Sahiba",
+    "artist": "Aditya Rikhari",
+    "album": "Sahiba",
+    "duration": "04:00",
+    "cover": "covers/Sahiba.png",
+    "url": "songs/Sahiba.mp3"
   }
 ]
