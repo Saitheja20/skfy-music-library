@@ -55,4 +55,14 @@
 
 
   }
+  ,
+  {
+    "id": "7",
+    "title": "Lonely ",
+    "artist": "Akhon",
+    "album": "Recovery",
+    "duration": "03:20",
+    "cover": "covers/Lonely.png",
+    "url": "songs/Lonely.mp3"
+  }
 ]
