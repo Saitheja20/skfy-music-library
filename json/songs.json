@@ -14,7 +14,7 @@
     "artist": "Arijit Singh, Shashwat Sachdev",
     "album": "Dhurandhar: The Revenge",
     "duration": "04:18",
-    "cover": "covers/phir-se.jpg",
+    "cover": "covers/phir-se.png",
     "url": "songs/phir-se.mp3"
   },
   {
@@ -23,7 +23,16 @@
     "artist": "A.R. Rahman",
     "album": "Tere Ishk Mein",
     "duration": "04:27",
-    "cover": "covers/deewaana-deewaana.jpg",
+    "cover": "covers/deewaana-deewaana.png",
     "url": "songs/deewaana-deewaana.mp3"
+  }
+  {
+    "id": "4",
+    "title": "Calm Down",
+    "artist": "Rema, Selena Gomez",
+    "album": "Calm Down",
+    "duration": "03:30",
+    "cover": "covers/Calm-Down.png",
+    "url": "songs/Calm-Down.mp3"
   }
 ]
