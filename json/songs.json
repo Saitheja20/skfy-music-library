@@ -73,5 +73,14 @@
     "duration": "04:00",
     "cover": "covers/Sahiba.png",
     "url": "songs/Sahiba.mp3"
+  },
+  {
+    "id": "9",
+    "title": "pal pal",
+    "artist": "talwinder",
+    "album": "pal pal",
+    "duration": "04:00",
+    "cover": "covers/pal-pal.png",
+    "url": "songs/pal-pal.mp3"
   }
 ]
